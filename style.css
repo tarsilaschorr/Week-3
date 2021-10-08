@@ -97,10 +97,18 @@ p {
   h2 {
     font-size: 38px;
   }
-  h3 {
-    font-size: 20px;
-  }
+
   .remove {
     display: none;
+  }
+
+  a.email-link {
+    font-size: 18px;
+  }
+  p {
+    font-size: 12px;
+  }
+  h3.text-center {
+    font-size: 20px;
   }
 }
